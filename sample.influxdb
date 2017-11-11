@@ -1,0 +1,14 @@
+house,metric=Global_active_power value=4.216 1166261040000000000
+house,metric=Global_reactive_power value=0.418 1166261040000000000
+house,metric=Voltage value=234.840 1166261040000000000
+house,metric=Global_intensity value=18.400 1166261040000000000
+house,metric=Sub_metering_1 value=0.000 1166261040000000000
+house,metric=Sub_metering_2 value=1.000 1166261040000000000
+house,metric=Sub_metering_3 value=17.000 1166261040000000000
+house,metric=Global_active_power value=5.360 1166261100000000000
+house,metric=Global_reactive_power value=0.436 1166261100000000000
+house,metric=Voltage value=233.630 1166261100000000000
+house,metric=Global_intensity value=23.000 1166261100000000000
+house,metric=Sub_metering_1 value=0.000 1166261100000000000
+house,metric=Sub_metering_2 value=1.000 1166261100000000000
+house,metric=Sub_metering_3 value=16.000 1166261100000000000
